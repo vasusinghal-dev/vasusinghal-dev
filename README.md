@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey there, I'm Vasu!
 
-<!--
-**vasusinghal-dev/vasusinghal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate | 💻 Web Developer | 🤖 Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building things with code, exploring modern tech, and constantly leveling up my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On:
+- Learning the MERN Stack
+- Practicing DSA in C++
+- Exploring AI & Automation
+
+---
+
+## 🧠 Current Learning Focus:
+- Learning **React** through [The Odin Project](https://www.theodinproject.com/)
+- Deepening my skills in **UI/UX Design** and **Web Aesthetics**
+
+---
+
+## 📈 GitHub Stats
+![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasusinghal&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Let's Connect:
+- 💼 [LinkedIn](https://linkedin.com/in/vasusinghal02)
+- 🌍 Portfolio coming soon!
+
