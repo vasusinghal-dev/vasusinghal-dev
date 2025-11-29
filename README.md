@@ -29,12 +29,6 @@ Currently diving deep into **React** and planning to expand into full-stack deve
 
 ---
 
-## 📈 GitHub Stats
-![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasusinghal-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasusinghal-dev&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasusinghal-dev)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vasus.singhal.work@gmail.com)
