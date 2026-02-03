@@ -13,20 +13,15 @@ My focus is on **clean data flow, predictable systems, and long-term maintainabi
 ## 📊 GitHub Snapshot
 
 <div align="center">
-
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vasusinghal-dev)](https://github.com/vasusinghal-dev/github-readme-stats-fast)
-  
-  <!-- GitHub Stats Card -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vasusinghal-dev&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
   
   <!-- Most Used Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasusinghal-dev&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
+  [![Vasu Dev's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vasusinghal-dev&layout=compact)](https://github.com/vasusinghal-dev/github-readme-stats-fast)
   
   <!-- GitHub Streak Stats -->
-  <img height="165" src="https://streak-stats.demolab.com?user=vasusinghal-dev&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  [![Vasu Dev's GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=vasusinghal-dev)](https://github.com/vasusinghal-dev/github-readme-stats-fast)
   
-  <!-- GitHub Trophies -->
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=vasusinghal-dev&theme=react&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasusinghal-dev&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
   
 </div>
 
