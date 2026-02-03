@@ -13,6 +13,8 @@ My focus is on **clean data flow, predictable systems, and long-term maintainabi
 ## 📊 GitHub Snapshot
 
 <div align="center">
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vasusinghal-dev)](https://github.com/vasusinghal-dev/github-readme-stats-fast)
   
   <!-- GitHub Stats Card -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vasusinghal-dev&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
